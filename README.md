@@ -1,6 +1,6 @@
 # nick2A
 
-# Boas vindas ao meun perfil!!#
+# Boas vindas ao meun perfil!!
 
 # Meu Nome é nicolas figueiredo,
 
